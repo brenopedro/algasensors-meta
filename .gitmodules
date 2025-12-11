@@ -1,9 +1,9 @@
 [submodule "microsservices/device-management"]
 	path = microsservices/device-management
-	url = git@github.com:brenopedro/algasensors-device-management.git
+	url = https://github.com/brenopedro/algasensors-device-management.git
 [submodule "microsservices/temperature-processing"]
 	path = microsservices/temperature-processing
-	url = git@github.com:brenopedro/algasensors-temperature-processing.git
+	url = https://github.com/brenopedro/algasensors-temperature-processing.git
 [submodule "microsservices/temperature-monitoring"]
 	path = microsservices/temperature-monitoring
-	url = git@github.com:brenopedro/algasensors-temperature-monitoring.git
+	url = https://github.com/brenopedro/algasensors-temperature-monitoring.git
